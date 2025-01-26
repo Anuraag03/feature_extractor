@@ -1,0 +1,38 @@
+{
+    "competitors": [
+        "CompetitorX", "CompetitorY", "CompetitorZ", 
+        "RivalA", "ChallengerB", "ContenderC",
+        "MarketLeader1", "EmergingStartup2", "Disruptor3"
+    ],
+    "features": [
+        "analytics", "AI engine", "data pipeline", 
+        "cloud integration", "user management", "cybersecurity",
+        "automation", "API access", "customization options",
+        "multi-language support", "blockchain integration", "IoT connectivity"
+    ],
+    "pricing_keywords": [
+        "discount", "renewal cost", "budget", "pricing model",
+        "subscription plan", "freemium", "tiered pricing", 
+        "enterprise licensing", "pay-as-you-go", "one-time fee",
+        "hidden costs", "price guarantee", "volume discount",
+        "early bird offer", "service-level agreement (SLA)"
+    ],
+    "industries": [
+        "finance", "healthcare", "eCommerce", "manufacturing",
+        "retail", "education", "automotive", "logistics",
+        "telecommunications", "government", "media and entertainment",
+        "real estate", "hospitality", "agriculture", "energy"
+    ],
+    "regions": [
+        "North America", "Europe", "Asia-Pacific", "Middle East", 
+        "Africa", "Latin America", "Oceania", 
+        "US", "UK", "Germany", "India", "China", "Brazil", "Australia"
+    ],
+    "topics": [
+        "customer acquisition", "market expansion", "brand positioning",
+        "sustainability", "regulatory compliance", "supply chain management",
+        "digital transformation", "user experience", "data privacy",
+        "remote work adaptation", "financial planning", "AI ethics",
+        "cybersecurity threats", "competitive advantage", "corporate social responsibility"
+    ]
+}
