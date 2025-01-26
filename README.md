@@ -10,9 +10,6 @@ This project provides a Dockerized FastAPI service for text classification and e
 - [Setup](#setup)
 - [Running the Service](#running-the-service)
 - [Testing the API](#testing-the-api)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Troubleshooting](#troubleshooting)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -30,7 +27,7 @@ Before running the service, ensure you have the following installed:
 
 - **Docker:** Install [Docker](https://www.docker.com/)
 - **Git:** Install [Git](https://git-scm.com/)
-- **Python (optional):** Install [Python](https://www.python.org/) for local development
+- **Python:** Install [Python](https://www.python.org/) for local development
 
 ## Setup
 
@@ -79,7 +76,7 @@ docker logs label-prediction-api
 You should see output similar to:
 
 ```
-INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
 ```
 
 ## Testing the API
