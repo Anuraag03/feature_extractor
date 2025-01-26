@@ -27,7 +27,7 @@ Before running the service, ensure you have the following installed:
 
 - **Docker:** Install [Docker](https://www.docker.com/)
 - **Git:** Install [Git](https://git-scm.com/)
-- **Python (optional):** Install [Python](https://www.python.org/) for local development
+- **Python:** Install [Python](https://www.python.org/) for local development
 
 ## Setup
 
