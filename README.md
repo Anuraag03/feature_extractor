@@ -79,7 +79,7 @@ docker logs label-prediction-api
 You should see output similar to:
 
 ```
-INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
 ```
 
 ## Testing the API
